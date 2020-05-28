@@ -1,4 +1,4 @@
-﻿<local:WindowEx x:Class="wpf_window_ex.MainWindow"
+﻿<local:Window x:Class="wpf_window_ex.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
@@ -9,4 +9,4 @@
     <Grid>
         
     </Grid>
-</local:WindowEx>
+</local:Window>

@@ -18,7 +18,7 @@ namespace wpf_window_ex
     /// <summary>
     /// Interaction logic for MainWindow.xaml
     /// </summary>
-    public partial class MainWindow : WindowEx
+    public partial class MainWindow : Window
     {
         public MainWindow()
         {
