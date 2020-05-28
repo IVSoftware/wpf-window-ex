@@ -1,5 +1,5 @@
 ﻿
-namespace wpf_window_ex
+namespace IVSoftware
 {
     public partial class Window : System.Windows.Window
     {
