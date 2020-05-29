@@ -6,8 +6,12 @@
         xmlns:local="clr-namespace:wpf_window_ex"
         xmlns:iv="clr-namespace:IVSoftware"
         mc:Ignorable="d"
-        Title="MainWindow" Height="300" Width="500">
+        Title="MainWindow" Height="300" Width="500" WindowStartupLocation="CenterScreen">
     <Grid>
-        
+        <iv:Console 
+            x:Name="Console" 
+            Margin="10"
+            TextWrapping="Wrap" 
+            AcceptsReturn="True" AcceptsTab="True" MinLines="100" BorderThickness="1" Padding="5"/>
     </Grid>
 </iv:Window>
